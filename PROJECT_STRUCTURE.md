@@ -71,6 +71,12 @@ ENVIROMENTTEST/
 
       ├──helpers.js
 
+.env
+
+.env.development
+
+.env.production
+
 .eslintignore
 
 .eslintrc.js
